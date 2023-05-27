@@ -4,7 +4,7 @@ Este repositorio contiene todos los archivos relacionados con la tesis de pregra
 ## Estructura del Repositorio
 - Exploración: En esta carpeta se encuentra el análisis inicial de la situación de la empresa, así como la exploración de la base de datos proporcionada correspondiente a la operación del año 2022 de una empresa prestadora de servicios de médicos domiciliarios.
 
-- Iteraciones: En esta carpeta se encuentran todos los archivos necesarios para ejecutar las diferentes iteraciones de la heurística desarrollada. El archivo correspondiente al "Modelo 4" representa la versión final de la heurística.
+- Iteraciones: En esta carpeta se encuentran todos los archivos necesarios para ejecutar las diferentes iteraciones de la heurística desarrollada. El archivo correspondiente al "Modelo 4" representa la versión final de la heurística y el "Modelo 5" representa un modelo de optimización lineal con estrategía miope.
 
 - Resultados: Esta carpeta contiene la construcción de todos los archivos de análisis del proyecto, incluyendo el cálculo de indicadores y un archivo para su interpretación.
 
