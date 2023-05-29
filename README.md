@@ -8,5 +8,5 @@ Este repositorio contiene todos los archivos relacionados con la tesis de pregra
 
 - Soluciones: Esta carpeta contiene la construcción de todos los archivos de análisis del proyecto, incluyendo el cálculo de indicadores y un archivo para su interpretación.
 
-- Adicional: En esta carpeta se encuentra la exploración de modelos adicionales, como un modelo probabilístico, mapas de calor, ruta más corta, entre otros.
+- Adicional: En esta carpeta se encuentra la exploración de modelos adicionales, como un modelo probabilístico, mapas de calor, ruta más corta, calculadora de longitud y latitud entre otros.
 
