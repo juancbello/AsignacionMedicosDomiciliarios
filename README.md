@@ -6,7 +6,7 @@ Este repositorio contiene todos los archivos relacionados con la tesis de pregra
 
 - Iteraciones: En esta carpeta se encuentran todos los archivos necesarios para ejecutar las diferentes iteraciones de la heurística desarrollada. El archivo correspondiente al "Modelo 4" representa la versión final de la heurística y el "Modelo 5" representa un modelo de optimización lineal con estrategía miope.
 
-- Resultados: Esta carpeta contiene la construcción de todos los archivos de análisis del proyecto, incluyendo el cálculo de indicadores y un archivo para su interpretación.
+- Soluciones: Esta carpeta contiene la construcción de todos los archivos de análisis del proyecto, incluyendo el cálculo de indicadores y un archivo para su interpretación.
 
 - Adicional: En esta carpeta se encuentra la exploración de modelos adicionales, como un modelo probabilístico, mapas de calor, ruta más corta, entre otros.
 
